@@ -1,4 +1,4 @@
-# CFA-Rosenberg-self-esteem-scale
+# Confirmatory Factor Analysis of the Rosenberg Self-Esteem Scale
 
 This project conducts a Confirmatory Factor Analysis (CFA) to evaluate and compare different factorial structures of the Rosenberg Self-Esteem Scale (RSES). The analysis tests three theoretical models:
 
