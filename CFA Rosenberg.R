@@ -85,7 +85,7 @@ semPaths(fit3b,"std", rotation=2, edge.label.cex = 1.0 )
 
 
 
-#### Kaufan's Model ####
+#### Kaufman's Model ####
 
 modelo4 <- "factor1 =~ Q1 + Q3 + Q4 + Q6 + Q7 + Q2 + Q5 + Q8
 factor2 =~ Q9 + Q10"
@@ -98,7 +98,7 @@ modindices(fit4, sort=T, minimum.value = 10)
 semPaths(fit4,"std", rotation=2, edge.label.cex = 1.0 )
 
 
-#### Kaufan's Model revision ####
+#### Kaufman's Model revision ####
 
 modelo4b <- "factor1 =~ Q1 + Q3 + Q4 + Q6 + Q7 + Q2 + Q5 + Q8
 factor2 =~ Q9 + Q10
@@ -109,6 +109,7 @@ summary(fit4b, standardized = TRUE, fit.measures=TRUE)
 
 
 semPaths(fit4b,"std", rotation=2, edge.label.cex = 1.0 )
+
 
 
 
