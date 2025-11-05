@@ -1,0 +1,1 @@
+# CFA-Rosenberg-self-esteem-scale
